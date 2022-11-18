@@ -1,4 +1,4 @@
-# mesa
+# M.E.S.A
 Welcome
 Welcome to the Making Ecology Simple and Accessible project. We are glad to have you here!
 In this document you’ll find some important information about our project.
